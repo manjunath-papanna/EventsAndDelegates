@@ -1,0 +1,10 @@
+C:\Users\manjunath\documents\visual studio 2012\Projects\EventsAndDelegates\UnitTest\obj\Debug\UnitTest.csprojResolveAssemblyReference.cache
+C:\Users\manjunath\documents\visual studio 2012\Projects\EventsAndDelegates\UnitTest\bin\Debug\UnitTest.dll
+C:\Users\manjunath\documents\visual studio 2012\Projects\EventsAndDelegates\UnitTest\bin\Debug\UnitTest.pdb
+C:\Users\manjunath\documents\visual studio 2012\Projects\EventsAndDelegates\UnitTest\bin\Debug\EventsAndDelegates.exe
+C:\Users\manjunath\documents\visual studio 2012\Projects\EventsAndDelegates\UnitTest\bin\Debug\PluginsShared.dll
+C:\Users\manjunath\documents\visual studio 2012\Projects\EventsAndDelegates\UnitTest\bin\Debug\EventsAndDelegates.pdb
+C:\Users\manjunath\documents\visual studio 2012\Projects\EventsAndDelegates\UnitTest\bin\Debug\PluginsShared.pdb
+C:\Users\manjunath\documents\visual studio 2012\Projects\EventsAndDelegates\UnitTest\obj\Debug\UnitTest.dll
+C:\Users\manjunath\documents\visual studio 2012\Projects\EventsAndDelegates\UnitTest\obj\Debug\UnitTest.pdb
+C:\Users\manjunath\documents\visual studio 2012\Projects\EventsAndDelegates\UnitTest\bin\Debug\UnitTest.dll.config
