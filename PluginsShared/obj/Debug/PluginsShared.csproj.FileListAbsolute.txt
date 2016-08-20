@@ -1,0 +1,5 @@
+C:\Users\manjunath\Documents\Visual Studio 2012\Projects\EventsAndDelegates\PluginsShared\bin\Debug\PluginsShared.dll
+C:\Users\manjunath\Documents\Visual Studio 2012\Projects\EventsAndDelegates\PluginsShared\bin\Debug\PluginsShared.pdb
+C:\Users\manjunath\Documents\Visual Studio 2012\Projects\EventsAndDelegates\PluginsShared\obj\Debug\PluginsShared.dll
+C:\Users\manjunath\Documents\Visual Studio 2012\Projects\EventsAndDelegates\PluginsShared\obj\Debug\PluginsShared.pdb
+C:\Users\manjunath\Documents\Visual Studio 2012\Projects\EventsAndDelegates\PluginsShared\obj\Debug\PluginsShared.csprojResolveAssemblyReference.cache

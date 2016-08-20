@@ -1,0 +1,8 @@
+c:\users\manjunath\documents\visual studio 2012\Projects\EventsAndDelegates\EventsAndDelegates\bin\Debug\EventsAndDelegates.exe.config
+c:\users\manjunath\documents\visual studio 2012\Projects\EventsAndDelegates\EventsAndDelegates\bin\Debug\EventsAndDelegates.exe
+c:\users\manjunath\documents\visual studio 2012\Projects\EventsAndDelegates\EventsAndDelegates\bin\Debug\EventsAndDelegates.pdb
+c:\users\manjunath\documents\visual studio 2012\Projects\EventsAndDelegates\EventsAndDelegates\obj\Debug\EventsAndDelegates.exe
+c:\users\manjunath\documents\visual studio 2012\Projects\EventsAndDelegates\EventsAndDelegates\obj\Debug\EventsAndDelegates.pdb
+C:\Users\manjunath\Documents\Visual Studio 2012\Projects\EventsAndDelegates\EventsAndDelegates\bin\Debug\PluginsShared.dll
+C:\Users\manjunath\Documents\Visual Studio 2012\Projects\EventsAndDelegates\EventsAndDelegates\bin\Debug\PluginsShared.pdb
+C:\Users\manjunath\Documents\Visual Studio 2012\Projects\EventsAndDelegates\EventsAndDelegates\obj\Debug\EventsAndDelegates.csprojResolveAssemblyReference.cache
