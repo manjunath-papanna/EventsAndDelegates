@@ -4,13 +4,14 @@
 // </copyright>
 // <author>Manjunath Papanna</author>
 //-----------------------------------------------------------------------
-                  
+
 namespace EventsAndDelegates
 {
     using System;
     using System.Configuration;
     using System.Linq;
     using PluginsShared.Entities;
+    using System.Collections.Generic;
 
     /// <summary>
     /// Program class
@@ -23,18 +24,24 @@ namespace EventsAndDelegates
         /// <param name="args">array of string</param>
         private static void Main(string[] args)
         {
-            var video1 = new Video() { Name = "Video 1" };
-            var video2 = new Video() { Name = "Video 2" };
+            var videos = new List<Video>()
+            {
+                new Video { Name = "Video 1" },
+                new Video { Name = "Video 2" },
+                new Video { Name = "Video 3" }
+            };
 
             var videoEncoder = new VideoEncoder();
-            var libBuilder = new LibBuilder();            
+            var libBuilder = new LibBuilder();
 
             if (libBuilder.Plugins.Any())
             {
                 libBuilder.BindPluginsToEvent(ref videoEncoder);
 
-                videoEncoder.Encode(video1);
-                videoEncoder.Encode(video2);
+                foreach (var video in videos)
+                {
+                    videoEncoder.Encode(video);
+                }
             }
         }
     }
